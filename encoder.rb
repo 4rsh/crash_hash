@@ -87,6 +87,6 @@ print "Original: ".cyan+input+" Modificado: ".cyan
 
 
 
-    print input
+    puts input
 
 # Enjoy. Arsh Leak.
