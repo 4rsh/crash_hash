@@ -3,6 +3,8 @@
 Developed by Arsh Leak. 2014
 For more: github.com/4rsh
     
+Encoder & Decoder --> github.com/4rsh/crash_hash/
+
 =end
 
 class String
@@ -86,3 +88,5 @@ print "Original: ".cyan+input+" Modificado: ".cyan
 
 
     print input
+
+# Enjoy. Arsh Leak.
