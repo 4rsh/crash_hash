@@ -1,6 +1,6 @@
 =begin
     
-Developed by Arsh Leak. 2014
+Developed by Arsh Leak. 2014.
 For more: github.com/4rsh
     
 Encoder & Decoder --> github.com/4rsh/crash_hash/
@@ -26,7 +26,7 @@ puts "
 
 
 ".cyan
-puts "Digite a string."
+puts "Enter the Hash."
 input	=	gets.chomp
 print "Hash: ".cyan+input+" Original: ".cyan
 
