@@ -27,9 +27,9 @@ puts "
 
 
 ".cyan
-puts "Digite alguma string."
+puts "Enter input string."
 input	=	gets.chomp
-print "Original: ".cyan+input+" Modificado: ".cyan
+print "Original: ".cyan+input+" Hash: ".cyan
 #A – B – C – D – E – F – G – H – I – J – K – L – M – N – O – P – Q – R – S – T – U – V – W – X – Y – Z
     input.gsub!(/a/, "12") if input.include? "a"
     input.gsub!(/b/, "23") if input.include? "b"
