@@ -1,6 +1,6 @@
 =begin
     
-Developed by Arsh Leak. 2014
+Developed by Arsh Leak. 2014.
 For more: github.com/4rsh
     
 Encoder & Decoder --> github.com/4rsh/crash_hash/
